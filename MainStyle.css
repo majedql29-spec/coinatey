@@ -1,0 +1,111 @@
+.body{
+    padding-top: 10px;
+    background-color: #010124ce;
+}
+
+/*Head section*/
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 55px;
+    height: 80px;
+    position: absolute;
+    width: 80%;
+    left: 85px;
+    z-index: 1000;
+
+    background-color: #0c0c2e;
+
+    box-shadow: 0 1px 8px rgb(0, 0, 0);
+
+    border-radius: 2px;
+}
+.logo-H {
+    font-size: x-large;
+    font-style:inherit;
+    color: white;
+    user-select: none;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.but{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    gap: 7px;
+}
+.News-but{
+    background-color: #010124ce;
+    color: white;
+    border-radius: 1rem;
+    text-align: center;
+    vertical-align: middle;
+    border-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 8px 16px;
+    margin: 5px;
+
+    text-decoration: none;
+    opacity: 0.9; /*vispelty to but*/
+    cursor: pointer; /* sheep of mouse*/
+    user-select: none; /* can not copy the button*/
+    outline: none;
+}
+.News-but:hover{
+    transform: scale(1.02);
+    color: black;
+    background-color: white;
+    box-shadow: 0 1px 10px black;
+}
+
+.AboutUS-but {
+    background-color: #010124ce;
+    color: white;
+    border-radius: 1rem;
+    text-align: center;
+    vertical-align: middle;
+    border-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 8px 10px;
+    margin: 2px;
+
+    text-decoration: none;
+    opacity: 0.9; /*vispelty to but*/
+    cursor: pointer; /* sheep of mouse*/
+    user-select: none; /* can not copy the button*/
+    outline: none;    
+}
+.AboutUS-but:hover {
+    transform: scale(1.02);
+    color: black;
+    background-color: white;
+    box-shadow: 0 1px 10px black;
+}
+
+.Love-but{
+    background-color: #010124ce;
+    color: white;
+    border-radius: 1rem;
+    text-align: center;
+    vertical-align: middle;
+    border-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    padding: 8px 16px;
+    margin: 5px;
+
+    text-decoration: none;
+    opacity: 0.9; /*vispelty to but*/
+    cursor: pointer; /* sheep of mouse*/
+    user-select: none; /* can not copy the button*/
+    outline: none;        
+}
+.Love-but:hover {
+    transform: scale(1.02);
+    color: black;
+    background-color: white;
+    box-shadow: 0 1px 10px black;
+}

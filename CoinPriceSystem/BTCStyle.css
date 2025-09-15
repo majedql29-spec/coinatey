@@ -1,0 +1,107 @@
+#BitForm{
+    position: relative;    
+    justify-content: space-between;
+    gap: 10px;    
+    margin: 100px 988px;         
+    padding: 5px;
+    width: 20%;                 
+    max-width: 400px;          
+    text-align: left;
+  
+      background-color: #0c0c2e;
+  
+      box-shadow: 0 1px 8px rgb(0, 0, 0);
+  
+      border-radius: 2px;
+  }
+  
+  #cons-bet {
+      font-size: 24px;
+      font-weight:lighter;
+      color:darkgreen;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #TB{
+      position: absolute;
+      top: -6px;
+      left: 240px;
+      font-size: small;
+      color: #c5c5c5c2;
+  }
+  
+  #cons-eth {
+      font-size: 24px;
+      font-weight:lighter;
+      color:darkgreen;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #TE {
+      position: absolute;
+      top: 24px;
+      left: 240px;
+      font-size: small;
+      color: #c5c5c5c2;
+  }
+  
+  #cons-sol{
+      font-size: 24px;
+      font-weight:lighter;
+      color:darkgreen;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #TS{
+      position: absolute;
+      top: 54px;
+      left: 240px;
+      font-size: small;
+      color: #c5c5c5c2; 
+  }
+  
+  #cons-tro{
+      font-size: 24px;
+      font-weight:lighter;
+      color:darkgreen;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }  
+  #TT {
+      position: absolute;
+      top: 84px;
+      left: 240px;
+      font-size: small;
+      color: #c5c5c5c2; 
+  }
+  
+  
+  #BTCL{
+      position: absolute;
+      top: 8px;
+      right: 110px;
+  
+      width: 20px;
+      height: 20px;
+  }
+  #ETHL {
+      position: absolute;
+      top: 37px;
+      right: 110px;
+  
+      width: 20px;
+      height: 20px;
+  }
+  #SOLL {
+      position: absolute;
+      top: 66px;
+      right: 110px;
+  
+      width: 20px;
+      height: 20px;
+  }
+  #TROL{
+      position: absolute;
+      top: 95px;
+      right: 110px;
+  
+      width: 20px;
+      height: 20px;
+  }
+  
